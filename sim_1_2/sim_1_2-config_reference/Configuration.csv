@@ -1,0 +1,31 @@
+,Configuration
+# Type I MU,101
+# Type IIa MU,17
+# Type IIb MU,2
+RR,30
+PFRD [Hz],20
+MFR [Hz],3
+PFR_1 [Hz],35
+Same gain for all MNs?,False
+g_1 [a.u.],2.0
+e_LR [%],0.92
+Plateau/peak intensity [%],0.19911
+Onset [ms],0
+Plateau on [ms],0
+Plateau off [ms],6000
+Offset [ms],6000
+Modulation,Trapezoidal
+Frequency [Hz],0.0005
+Sampling [Hz],20000
+Duration [ms],6000
+ISI cv,0.1
+synch. level [%],10.0
+Synch. sigma [ms],1.7
+P_1 [mN],0.003
+RP,130
+Twitch duration,Exponential
+T_L [ms],90
+RT,3
+First motor unit saturation frequency [Hz],50
+Last motor unit saturation frequency [Hz],100
+MU saturation interpol style,Exponential
